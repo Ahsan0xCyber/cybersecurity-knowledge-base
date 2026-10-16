@@ -4,24 +4,52 @@ This section documents my learning journey through cybersecurity fundamentals, i
 
 ## Topics Covered
 
-- **Cybersecurity Fundamentals** — Core concepts and the importance of cybersecurity.
-- **Data and Information Security** — Personal data, organizational data, and data protection.
-- **Cybersecurity Threats** — Common threats, vulnerabilities, and cyberattacks.
-- **Threat Actors and Motivations** — Types of threat actors and their objectives.
-- **Malware** — Common malware types and their impact.
-- **Social Engineering** — Phishing and other social engineering techniques.
-- **Security Principles** — Confidentiality, Integrity, and Availability (CIA Triad).
-- **Security Technologies** — Basic security tools and protective measures.
-- **Online Safety and Privacy** — Safe online practices and data protection.
-- **Cybersecurity Careers** — Career paths, security roles, and essential skills.
+### 1. Cybersecurity Basics
+- Introduction to Cybersecurity
+- Importance of Cybersecurity
+- Information Security Fundamentals
+- Personal and Organizational Data
+
+### 2. Cybersecurity Threats
+- Cyber Threats and Vulnerabilities
+- Threat Actors and Their Motivations
+- Common Cyberattacks
+- Impacts of Cybersecurity Incidents
+
+### 3. Malware and Social Engineering
+- Introduction to Malware
+- Common Types of Malware
+- Phishing
+- Social Engineering
+- Online Scams and Deceptive Practices
+
+### 4. Information Security Principles
+- Confidentiality
+- Integrity
+- Availability
+- CIA Triad
+- Data Protection and Privacy
+
+### 5. Cybersecurity Protection
+- Security Awareness
+- Safe Online Practices
+- Account and Password Security
+- Basic Security Technologies
+- Personal Data Protection
+
+### 6. Cybersecurity Careers
+- Cybersecurity Career Paths
+- Common Security Roles
+- Essential Cybersecurity Skills
+- Introduction to the Cybersecurity Industry
 
 ## Learning Objectives
 
 - Understand fundamental cybersecurity concepts.
-- Recognize common cyber threats and vulnerabilities.
-- Understand essential information security principles.
+- Identify common threats, vulnerabilities, and attack techniques.
+- Understand the CIA Triad and essential security principles.
 - Develop awareness of online safety and data protection.
-- Explore cybersecurity career opportunities.
+- Explore cybersecurity career paths and essential skills.
 
 ## Learning Approach
 
@@ -29,7 +57,7 @@ This section documents my learning journey through cybersecurity fundamentals, i
 
 ## Future Learning
 
-This knowledge base will expand with detailed notes, practical examples, hands-on labs, and additional cybersecurity topics as I progress.
+This section will expand with detailed notes, practical examples, hands-on labs, and additional cybersecurity concepts as I progress.
 
 ---
 
