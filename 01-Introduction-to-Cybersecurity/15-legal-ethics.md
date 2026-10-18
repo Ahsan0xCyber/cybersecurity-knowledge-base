@@ -68,36 +68,6 @@ Cybersecurity professionals should:
 
 Professional organizations such as ISSA publish resources and ethical guidance for practitioners.
 
-## 5. Cybersecurity Certifications
-
-Examples:
-- **Cisco CCST Cybersecurity:** Foundational cybersecurity knowledge.
-- **CompTIA Security+:** Broad foundational security concepts.
-- **Cisco CyberOps Associate:** Security operations and threat monitoring.
-- **CEH:** Ethical hacking concepts and techniques.
-- **CISSP:** Advanced, broad information security management.
-
-Check each certification provider's official website for current requirements.
-
-## 6. Cybersecurity Career Paths
-
-Common roles:
-- Security Analyst
-- Penetration Tester
-- Incident Responder
-- Digital Forensics Analyst
-- Security Engineer
-
-Important skills:
-- Networking, Linux, and Windows
-- Python and scripting
-- Web, API, and network security
-- Cryptography and risk management
-- Malware analysis and digital forensics
-- Cloud security and OSINT
-
-Build practical experience through authorized labs, CTFs, projects, and technical write-ups.
-
 ## Key Takeaway
 
 **Stay authorized, follow the law, protect privacy, act ethically, and report security findings honestly.**
